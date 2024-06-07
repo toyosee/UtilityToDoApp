@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\bin\Release\net8.0-windows\win-x64\ToDoApp.exe
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\bin\Release\net8.0-windows\win-x64\ToDoApp.deps.json
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\bin\Release\net8.0-windows\win-x64\ToDoApp.runtimeconfig.json
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\bin\Release\net8.0-windows\win-x64\ToDoApp.dll
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\bin\Release\net8.0-windows\win-x64\ToDoApp.pdb
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\obj\Release\net8.0-windows\win-x64\ToDoApp.Form1.resources
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\obj\Release\net8.0-windows\win-x64\ToDoApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\obj\Release\net8.0-windows\win-x64\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\obj\Release\net8.0-windows\win-x64\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\obj\Release\net8.0-windows\win-x64\ToDoApp.AssemblyInfo.cs
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\obj\Release\net8.0-windows\win-x64\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\obj\Release\net8.0-windows\win-x64\ToDoApp.dll
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\obj\Release\net8.0-windows\win-x64\refint\ToDoApp.dll
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\obj\Release\net8.0-windows\win-x64\ToDoApp.pdb
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\obj\Release\net8.0-windows\win-x64\ToDoApp.genruntimeconfig.cache
+C:\Users\User\Desktop\personal projects\CSharpProjects\ToDoApp\ToDoApp\obj\Release\net8.0-windows\win-x64\ref\ToDoApp.dll
